@@ -1,4 +1,4 @@
-## Olá 👋
+## Olá, seja bem-vindo ao meu perfil! 👋
 
 Sou bacharel em Ciência da Computação com cerca de 10 anos de experiência no mundo da **Engenharia de Software** - focando na **Garantia de Qualidade de Software**. Tenho experiência em participar de todas as etapas do Ciclo de Vida de Teste de Software (STLC), desde a criação e revisão de planos de teste até a execução de testes.
 
