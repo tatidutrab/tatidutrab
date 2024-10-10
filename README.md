@@ -1,16 +1,30 @@
-## Hi there 👋
+## Olá, seja bem-vindo ao meu perfil! 👋
 
-<!--
-**tatidutrab/tatidutrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou bacharel em Ciência da Computação com cerca de 10 anos de experiência no mundo da **Engenharia de Software** - focando na **Garantia de Qualidade de Software**. Tenho experiência em participar de todas as etapas do Ciclo de Vida de Teste de Software (STLC), desde a criação e revisão de planos de teste até a execução de testes.
 
-Here are some ideas to get you started:
+### 🔧 O que faço:
+- Criação e revisão de **planos de teste**, **casos de teste** e **execução de testes** em diferentes tipos de ambientes (simples a complexos).
+- Realizo **Testes Funcionais e Não Funcionais**, incluindo **Teste de Regressão**, **Teste de API** e **Teste de Interface de Usuário**.
+- Trabalho com **Metodologias Ágeis**, aplicando práticas de **testes exploratórios** e **testes ágeis**.
+- Experiência em ferramentas de **gerenciamento de testes**, como a criação e gerenciamento de **bugs** e **casos de teste**.
+- Contribuo para a **melhoria contínua de processos de software**, buscando sempre aumentar a qualidade dos produtos.
+- Me experienciando também na **Automação de Testes** além dos **Testes manuais**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Habilidades e Tecnologias:
+- **Garantia de Qualidade de Software**
+- **Estratégias de teste / Coberturas de teste**
+- **Testes Funcionais e Não Funcionais**
+- **Testes exploratórios**
+- **Testes de aceitação do usuário**
+- **Agile methodologies**
+- **Ferramentas mais abrangentes na minha jornada** (Jira, Postman, Cypress, Git, SQL(DBeaver), Github, Visual Studio Code, Docker, Qase)
+  
+### 📫 Como me encontrar:
+- **LinkedIn**: [linkedin.com/in/tatiborghi](https://www.linkedin.com/in/tatiborghi)
+
+### 🚀 Atualmente:
+- Tenho estado em busca de novos desafios e projetos onde possa aplicar minhas habilidades de QA e colaborar para melhorar a qualidade de software em ambientes ágeis.
+
+### 😄 **Curiosidades**:
+- Sou apaixonada por ambientes interativos e já fiz um curso de vídeo mapping como hobby, utilizando a biblioteca p5.js do JavaScript!
+- Meu primeiro contato com o mundo dos testes foi durante um estágio focado em testes de segurança em produtos de software!
