@@ -20,7 +20,7 @@ Sou bacharel em Ciência da Computação e tenho cerca de 10 anos de experiênci
 - **Ferramentas mais abrangentes na minha jornada** (Jira, Postman, Cypress, Git, SQL(DBeaver), Github, Visual Studio Code, Docker, Qase)
   
 ### 📫 Como me encontrar:
-- **LinkedIn**: [linkedin.com/in/tatiborghi](https://www.linkedin.com/in/tatidutrab)
+- **LinkedIn**: [linkedin.com/in/tatidutrab](https://www.linkedin.com/in/tatidutrab)
 
 ### 🚀 Atualmente:
 - Tenho estado em busca de novos desafios e projetos onde possa aplicar minhas habilidades de QA e colaborar para melhorar a qualidade de software em ambientes ágeis.
