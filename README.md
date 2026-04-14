@@ -4,19 +4,19 @@ Sou bacharel em Ciência da Computação, com cerca de 10 anos de experiência e
 Atualmente, atuo como **Técnica de TI**, ampliando minha experiência em sistemas, infraestrutura e suporte, enquanto sigo aplicando e evoluindo práticas de qualidade de software.
 
 ### 🔧 Atuação:
-• Testes funcionais e não funcionais (UI, API, regressão e testes de segurança);
-• Criação e execução de casos de teste;
-• Testes exploratórios e metodologias ágeis;
-• Gestão de bugs e melhoria contínua.  
+- Testes funcionais e não funcionais (UI, API, regressão e testes de segurança);
+- Criação e execução de casos de teste;
+- Testes exploratórios e metodologias ágeis;
+- Gestão de bugs e melhoria contínua.  
 
 ### 💡 Tecnologias principais:
 Cypress | Postman | Jira | Git | SQL | VS Code 
   
 ### 📫 Como me encontrar:
-• **LinkedIn**: [linkedin.com/in/tatidutrab](https://www.linkedin.com/in/tatidutrab)
+- **LinkedIn**: [linkedin.com/in/tatidutrab](https://www.linkedin.com/in/tatidutrab)
 
 ### 🚀 Atualmente:
-• Aprofundando conhecimentos em **automação de testes de segurança** e evoluindo para práticas de **DevOps/GitOps** e **Infraestrutura como Código (IaC)**  
+- Aprofundando conhecimentos em **automação de testes de segurança** e evoluindo para práticas de **DevOps/GitOps** e **Infraestrutura como Código (IaC)**  
 
 ### 😄 **Curiosidades**:
-• Apaixonada por ambientes interativos (já estudei vídeo mapping com p5.js) e iniciei minha jornada em QA com foco em testes de segurança.
+- Apaixonada por ambientes interativos (já estudei vídeo mapping com p5.js) e iniciei minha jornada em QA com foco em testes de segurança.
