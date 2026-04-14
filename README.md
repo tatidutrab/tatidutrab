@@ -1,30 +1,21 @@
 ## Olá, seja bem-vindo ao meu perfil! 👋
 
-Sou bacharel em Ciência da Computação e tenho cerca de 10 anos de experiência na **Engenharia de Software**, com foco em Garantia de Qualidade de Software. Ao longo da minha carreira, participei de todas as etapas do Ciclo de Vida de Teste de Software (STLC), desde a criação e revisão de planos de teste até a execução dos testes. Fico feliz em compartilhar minhas experiências e estou à disposição para conversar sobre o tema.
+Sou bacharel em Ciência da Computação, com cerca de 10 anos de experiência em **Engenharia de Software**, com foco em **Qualidade de Software (QA)**. Atuo em diferentes etapas do ciclo de testes (STLC), desde o planejamento até a execução, sempre buscando melhorar a qualidade dos produtos e processos.
 
-### 🔧 O que faço:
-- Criação e revisão de **planos de teste**, **casos de teste** e **execução de testes** em diferentes tipos de ambientes (simples a complexos).
-- Realizo **Testes Funcionais e Não Funcionais**, incluindo **Teste de Regressão**, **Teste de API** e **Teste de Interface de Usuário**.
-- Trabalho com **Metodologias Ágeis**, aplicando práticas de **testes exploratórios** e **testes ágeis**.
-- Experiência em ferramentas de **gerenciamento de testes**, como a criação e gerenciamento de **bugs** e **casos de teste**.
-- Contribuo para a **melhoria contínua de processos de software**, buscando sempre aumentar a qualidade dos produtos.
-- Me experienciando também na **Automação de Testes** além dos **Testes manuais**.
+### 🔧 Atuação:
+• Testes funcionais e não funcionais (UI, API, regressão e testes de segurança)
+• Criação e execução de casos de teste  
+• Testes exploratórios e metodologias ágeis  
+• Gestão de bugs e melhoria contínua  
 
-### 💡 Habilidades e Tecnologias:
-- **Garantia de Qualidade de Software**
-- **Estratégias de teste / Coberturas de teste**
-- **Testes Funcionais e Não Funcionais**
-- **Testes exploratórios**
-- **Testes de aceitação do usuário**
-- **Agile methodologies**
-- **Ferramentas mais abrangentes na minha jornada** (Jira, Postman, Cypress, Git, SQL(DBeaver), Github, Visual Studio Code, Docker, Qase)
+### 💡 Tecnologias principais:
+Cypress | Postman | Jira | Git | SQL | VS Code 
   
 ### 📫 Como me encontrar:
-- **LinkedIn**: [linkedin.com/in/tatidutrab](https://www.linkedin.com/in/tatidutrab)
+• **LinkedIn**: [linkedin.com/in/tatidutrab](https://www.linkedin.com/in/tatidutrab)
 
 ### 🚀 Atualmente:
-- Tenho estado em busca de novos desafios e projetos onde possa aplicar minhas habilidades de QA e colaborar para melhorar a qualidade de software em ambientes ágeis.
+• Aprofundando conhecimentos em **automação de testes de segurança** e evoluindo para práticas de **DevOps/GitOps** e **Infraestrutura como Código (IaC)**  
 
 ### 😄 **Curiosidades**:
-- Sou apaixonada por ambientes interativos e já fiz um curso de vídeo mapping como hobby, utilizando a biblioteca p5.js do JavaScript!
-- Meu primeiro contato com o mundo dos testes foi durante um estágio focado em testes de segurança em produtos de software!
+• Apaixonada por ambientes interativos (já estudei vídeo mapping com p5.js) e iniciei minha jornada em QA com foco em testes de segurança.
