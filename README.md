@@ -1,6 +1,7 @@
 ## Olá, seja bem-vindo ao meu perfil! 👋
 
-Sou bacharel em Ciência da Computação, com cerca de 10 anos de experiência em **Engenharia de Software**, com foco em **Qualidade de Software (QA)**. Atuo em diferentes etapas do ciclo de testes (STLC), desde o planejamento até a execução, sempre buscando melhorar a qualidade dos produtos e processos.
+Sou bacharel em Ciência da Computação, com cerca de 10 anos de experiência em **Engenharia de Software**, com foco em **Qualidade de Software (QA)**. Atuo em diferentes etapas do ciclo de testes (STLC), do planejamento à execução, sempre buscando melhorar a qualidade dos produtos e processos.  
+Atualmente, atuo como **Técnica de TI**, ampliando minha experiência em sistemas, infraestrutura e suporte, enquanto sigo aplicando e evoluindo práticas de qualidade de software.
 
 ### 🔧 Atuação:
 • Testes funcionais e não funcionais (UI, API, regressão e testes de segurança)
